@@ -62,7 +62,7 @@ This branch contains:
 
 ### User Guide
 
-** If you wish to just see the build open the .exe file found on main **
+**If you wish to just see the build open the .exe file found on main**
 
 1. Firstly download the source code from the application branch by pressing 'code' then 'download zip' [GitHub](https://github.com/JoshHaywood/arduino-project/tree/application)
 
