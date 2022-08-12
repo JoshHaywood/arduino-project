@@ -1,7 +1,7 @@
 # arduino-project
 An Arduino game and controller I made in my first year of university. Made using a Unity plugin called Uduino and Arduino electrical components.
 
-** Please note this project has been moved to this repo as its repo is inaccessible to users outside of the academic institution it was created under, therefore it will lack the relevant commit logs. **
+**Please note this project has been moved to this repo as its repo is inaccessible to users outside of the academic institution it was created under, therefore it will lack the relevant commit logs.**
 
 ## Contents
 
