@@ -5,7 +5,7 @@ An Arduino game and controller I made in my first year of university. Made using
 
 ## Contents
 
-- [Aruino Project](#arduino-project)
+- [arduino-project](#arduino-project)
   - [Contents](#contents)
   - [Main Features](#main-features)
   - [Repository Layout](#repository-layout)
@@ -76,14 +76,14 @@ This branch contains:
 
 ## Commit Message Key
 
-** If any words used in the commit log used before the content of the message are unfamilar refer to this key **
+** If any words used in the commit log used before the content of the message are unfamiliar refer to this key **
 
 - feat: A feature that has been added.
 - fix: Bug fix.
 - docs: Changes relating to documentation.
-- style: Formatting, missing code, white space (This doesnt apply to CSS.)
-- refactor: Maintainabilty or a functions method has been altered.
-- dep: Dependancies added to the project.
+- style: Formatting, missing code, white space (This doesn't apply to CSS.)
+- refactor: Maintainability or a functions method has been altered.
+- dep: Dependencies added to the project.
 - chore: Miscellaneous such as altering assets.
 - del: Deleted or removed unused code, files or other assets.
 
